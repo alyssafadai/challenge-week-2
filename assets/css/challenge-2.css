@@ -1,0 +1,26 @@
+body {
+    color: #8092cd;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+header {
+    background-color: #09153e;
+    padding: 20px 35px;
+  }
+
+  header h1 {
+    font-weight: bold;
+    font-size: 40px;
+    color: #dfbed3;
+    margin: 0;
+  }
+  
+  .name {
+    background-image: url("../images/about-me.jpg");
+    background-size: auto;
+    background-position: center;
+    display: flex;
+    justify-content: left;
+    flex-wrap: wrap;
+    align-items: flex-start;
+  }
